@@ -1,14 +1,14 @@
 :root {
-  --primary: #171717;
-  --secondary: #383838;
-  --accent: #171717;
-  --bg-light: #fafafa;
-  --bg-dark: #171717;
-  --text-dark: #171717;
+--primary: #1A56DB;
+  --secondary: #0F3B8C;
+  --accent: #E07B39;
+  --bg-light: #FFFFFF;
+  --bg-dark: #1A56DB;
+  --text-dark: #4a4a4a;
   --text-light: #ffffff;
-  --text-muted: #a8a8a8;
-  --border-light: #ebebeb;
-  --border-dark: #383838;
+  --text-muted: #707070;
+  --border-light: #8d8d8d;
+  --border-dark: #6b6b6b;
   --nav-bg: #fafafa;
   --nav-text: #171717;
   --nav-text-hover: #383838;
@@ -29,6 +29,13 @@
   --spacing-element-gap: 16px;
   --transition-default: all 0.2s ease;
   --transition-hover: all 0.2s ease;
+  --primary-color: #1A56DB;
+  --secondary-color: #0F3B8C;
+  --accent-color: #E07B39;
+  --background-color: #FFFFFF;
+  --surface-color: #F4F7FC;
+  --text-color: #4a4a4a;
+  --text-secondary-color: #707070;
 }
 
 *, *::before, *::after {
@@ -280,9 +287,9 @@ html:not([dir]) .whatsapp-float {
   --nav-bg: #fafafa;
   --nav-text: #171717;
   --nav-text-hover: #383838;
-  --primary: #171717;
+  --primary: #1A56DB;
   --text-light: #ffffff;
-  --border-light: #ebebeb;
+  --border-light: #8d8d8d;
 }
 
 .navbar {
@@ -544,9 +551,9 @@ html:not([dir]) .whatsapp-float {
   --nav-bg: #fafafa;
   --nav-text: #171717;
   --nav-text-hover: #383838;
-  --primary: #171717;
+  --primary: #1A56DB;
   --text-light: #ffffff;
-  --border-light: #ebebeb;
+  --border-light: #8d8d8d;
 }
 
 .navbar {
@@ -874,7 +881,7 @@ html:not([dir]) .whatsapp-float {
 .navbar a:focus-visible,
 .navbar button:focus-visible,
 .nav-menu a:focus-visible {
-  outline: 2px solid var(--primary-color, var(--primary, #171717));
+  outline: 2px solid var(--primary-color, var(--primary, #1A56DB));
   outline-offset: 2px;
 }
 
@@ -1946,12 +1953,12 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
 
 /* Footer Styles */
 .site-footer {
-  background-color: var(--bg-dark, #171717);
+  background-color: var(--bg-dark, #1A56DB);
   color: var(--text-light, #ffffff);
   padding: 3.5rem 1.5rem 2rem;
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   direction: rtl;
-  border-top: 1px solid var(--border-dark, #383838);
+  border-top: 1px solid var(--border-dark, #0F3B8C);
 }
 
 .footer-container {
@@ -1964,7 +1971,7 @@ main:not(.courses-page-main) { margin-top: 0 !important; padding-top: 0 !importa
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 2.5rem;
   padding-bottom: 2.5rem;
-  border-bottom: 1px solid var(--border-dark, #383838);
+  border-bottom: 1px solid var(--border-dark, #0F3B8C);
   margin-bottom: 2rem;
 }
 
@@ -2247,7 +2254,7 @@ hr.section-flourish, .section-flourish, [data-section-divider] {
   color: #ffffff !important;
 }
 .site-footer .footer-legal .separator {
-  color: #383838 !important;
+  color: #0F3B8C !important;
 }
 /* Footer contact alignment fix */
 .footer-contact li > a { display: flex; align-items: flex-start; gap: inherit; }
@@ -2314,7 +2321,7 @@ main { flex: 1 0 auto; }
 }
 
 .home-hero-section .home-hero-login-card {
-  background: #ffffff;
+  background: #FFFFFF;
   border: 1px solid var(--border-light);
   border-radius: 8px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
@@ -2360,7 +2367,7 @@ main { flex: 1 0 auto; }
   font-family: 'GeistSans', sans-serif;
   font-size: 1rem;
   color: var(--text-dark);
-  background: #ffffff;
+  background: #FFFFFF;
   border: 1px solid var(--border-light);
   border-radius: 8px;
   outline: none;
@@ -2428,7 +2435,7 @@ main { flex: 1 0 auto; }
   width: 100%;
   height: 44px;
   padding: 0 16px;
-  background: #ffffff;
+  background: #FFFFFF;
   color: var(--text-dark);
   font-family: 'GeistSans', sans-serif;
   font-size: 0.9375rem;
@@ -2833,6 +2840,15 @@ main { flex: 1 0 auto; }
 .cookie-preferences-btn:hover {
   text-decoration: none !important;
 }
+/* === BUTTON TEXT OVERRIDES START === */
+.btn-accent,
+.btn--accent,
+[class*="btn-accent"],
+[class*="btn--accent"] { color: #333333 !important; }
+.navbar .nav-cta-btn,
+.nav-cta-btn { color: #FFFFFF !important; }
+/* === BUTTON TEXT OVERRIDES END === */
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
