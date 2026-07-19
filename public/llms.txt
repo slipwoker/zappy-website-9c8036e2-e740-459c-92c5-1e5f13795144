@@ -1,0 +1,59 @@
+# עננים ארט ג׳ודאיקה — Generative Engine Optimization Map
+
+> Clouds Graphics is a graphic design studio with an existing web presence. The user wants to rebuild and refresh the site using AI, preserving the business identity, content structure, colors, images, and logo from the original site while creating an editable and modernized version. The brand name evokes a creative, airy, and visually-driven identity typical of design-focused studios.
+
+---
+
+## Pages
+
+### Home
+https://-9c8036e2.zappy5.app
+סטודיו לעיצוב גרפי שמביא את החזון הוויזואלי שלכם לחיים – ממיתוג ועד דפוס, בהשראת יודאיקה מודרנית. קבעו פגישת ייעוץ עוד היום וגלו עולם של יצירה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9c8036e2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9c8036e2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9c8036e2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עננים ארט ג׳ודאיקה
+Clouds Graphics is a graphic design studio with an existing web presence. The user wants to rebuild and refresh the site using AI, preserving the business identity, content structure, colors, images, and logo from the original site while creating an editable and modernized version. The brand name evokes a creative, airy, and visually-driven identity typical of design-focused studios.
+
+## Target Audience
+- אספני יודאיקה
+- מנהלי בתי כנסת
+- מרכזים חינוכיים יהודיים
+- גלריות וחנויות אומנות
+- מתכנני אירועים יהודיים
+- בעלי משרדים
+- אנשים שנכנסו לדירה חדשה
+- דתיים
+
+## Industry
+Graphic Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9c8036e2.zappy5.app/sitemap.xml
+- Robots: https://-9c8036e2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9c8036e2.zappy5.app/llms-full.txt
