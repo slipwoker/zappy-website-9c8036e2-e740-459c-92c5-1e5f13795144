@@ -7,21 +7,21 @@
 ## Pages
 
 ### Home
-https://-9c8036e2.zappy5.app
+https://example.com
 סטודיו לעיצוב גרפי שמביא את החזון הוויזואלי שלכם לחיים – ממיתוג ועד דפוס, בהשראת יודאיקה מודרנית. קבעו פגישת ייעוץ עוד היום וגלו עולם של יצירה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-9c8036e2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-9c8036e2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-9c8036e2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,6 +54,6 @@ Graphic Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-9c8036e2.zappy5.app/sitemap.xml
-- Robots: https://-9c8036e2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-9c8036e2.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
