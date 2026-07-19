@@ -7,21 +7,21 @@
 ## Pages
 
 ### Home
-https://example.com
+https://ananim-art-judaica.zappy5.app
 סטודיו לעיצוב גרפי שמביא את החזון הוויזואלי שלכם לחיים – ממיתוג ועד דפוס, בהשראת יודאיקה מודרנית. קבעו פגישת ייעוץ עוד היום וגלו עולם של יצירה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ananim-art-judaica.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ananim-art-judaica.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ananim-art-judaica.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -54,6 +54,6 @@ Graphic Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://ananim-art-judaica.zappy5.app/sitemap.xml
+- Robots: https://ananim-art-judaica.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ananim-art-judaica.zappy5.app/llms-full.txt
